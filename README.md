@@ -1,1 +1,2 @@
 # 20NN1A0515-HEMA-VYSHNAVI-IMMADABATHUNI-
+This repository contains the project "VIDEO GAME SALES TRENDS ANALYSIS USING TABLEAU" as a zip file.
